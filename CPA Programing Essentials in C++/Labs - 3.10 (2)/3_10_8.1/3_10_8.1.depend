@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513103168 source:d:\users\rodion\Рабочий стол\Лекции\5-й семестр\Навчальна практика\practice\cpa programing essentials in c++\labs - 3.10 (2)\3_10_8.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
