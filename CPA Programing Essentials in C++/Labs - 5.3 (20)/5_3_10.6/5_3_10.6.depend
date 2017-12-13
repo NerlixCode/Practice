@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513182447 source:d:\users\rodion\Рабочий стол\Лекции\5-й семестр\Навчальна практика\practice\cpa programing essentials in c++\labs - 5.3 (20)\5_3_10.6\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<stdlib.h>
+
