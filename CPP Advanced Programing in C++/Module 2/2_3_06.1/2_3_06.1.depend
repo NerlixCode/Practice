@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513471496 source:d:\users\rodion\Рабочий стол\Лекции\5-й семестр\Навчальна практика\labs adv\module 2\2_3_06.1\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<string>
+

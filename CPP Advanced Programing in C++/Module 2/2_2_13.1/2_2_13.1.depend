@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513469005 source:d:\users\rodion\Рабочий стол\Лекции\5-й семестр\Навчальна практика\labs adv\module 2\2_2_13.1\main.cpp
+	<iostream>
+	<set>
+	<functional>
+
