@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513730403 source:d:\users\rodion\Рабочий стол\Лекции\5-й семестр\Навчальна практика\practice\cpp advanced programing in c++\module 4\4_1_02.1\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
